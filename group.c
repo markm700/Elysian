@@ -16,8 +16,10 @@ void member3(void){
 
 void member4(void){
 	printf("*************Daithi Martin*************\n");
-	printf("I have a degree in chemistry and I am a sophmore in the computer sceince program\n", );
-	printf("I enjoy skiing, whitewater kayaking and mountian biking\n", );
+	printf("I have a degree in chemistry and I am a sophmore in the computer sceince program\n");
+	printf("I enjoy skiing, whitewater kayaking and mountian biking\n");
+	printf("I grew up in Honolulu Hawaii.\n");
+	
 }
 
 void member5(void){
