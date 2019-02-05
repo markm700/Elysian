@@ -20,7 +20,10 @@ void member4(void){
 
 void member5(void){
 	printf("\n");
-	printf("Name: Mark Matas");
+	printf("Name: Mark Matas\n");
+	printf("Grade: Senior\n");
+	printf();
+	printf();
 }
 
 int main(void){
