@@ -19,7 +19,8 @@ void member4(void){
 }
 
 void member5(void){
-
+	printf("\n");
+	printf("Name: Mark Matas");
 }
 
 int main(void){
@@ -28,11 +29,11 @@ int main(void){
 	printf("Our members: \n");
 	printf("**************************\n");
 	
-	member1();
-	member2();
-	member3();
-	member4();
-	member5();
+	member1(); //Yilin
+	member2(); //Tristan
+	member3(); //Michael
+	member4(); //Daithi
+	member5(); //Mark
 	
 	return 0;
 }
