@@ -7,6 +7,8 @@ void member1(void){
 	printf("Year in School: 2\n");
 	printf("Major: Computer Science\n");
 	printf("Hobbies: Travel\n");
+	printf("Where You Grew Up: Zhongshan,China\n");
+	printf("Anything Else: No\n");
 
 }
 
