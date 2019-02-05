@@ -15,6 +15,8 @@ void member3(void){
 }
 
 void member4(void){
+	printf("*************Daithi Martin*************\n");
+	
 
 }
 
@@ -27,12 +29,12 @@ int main(void){
 	printf("Our group is called: \n");
 	printf("Our members: \n");
 	printf("**************************\n");
-	
+
 	member1();
 	member2();
 	member3();
 	member4();
 	member5();
-	
+
 	return 0;
 }
