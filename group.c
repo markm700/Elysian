@@ -22,7 +22,7 @@ void member5(void){
 	printf("\n");
 	printf("Name: Mark Matas\n");
 	printf("Grade: Senior\n");
-	printf();
+	printf("Major: Biology and Computer Science\n");
 	printf();
 }
 
