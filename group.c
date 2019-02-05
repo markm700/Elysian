@@ -3,6 +3,7 @@
 #include <string.h>
 
 void member1(void){
+	printf("Name: Yilin Li\n");
 
 }
 
