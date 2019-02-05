@@ -3,6 +3,12 @@
 #include <string.h>
 
 void member1(void){
+	printf("Name: Yilin Li\n");
+	printf("Year in School: 2\n");
+	printf("Major: Computer Science\n");
+	printf("Hobbies: Travel\n");
+	printf("Where You Grew Up: Zhongshan,China\n");
+	printf("Anything Else: No\n");
 
 }
 
