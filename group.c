@@ -13,7 +13,12 @@ void member1(void){
 }
 
 void member2(void){
-
+printf("******Tristan Linn*******\n");
+	printf("I am in my second year of school\n");
+	printf("Computer Sceince - Mathematics is my major\n");
+	printf("I like to mountaineer and play basketball\n");
+	printf("I gre up in Philipsburg Montana\n");
+	printf("I have climbed Mount Rainier, Mount Adams, and Mount Hood\n");
 }
 
 void member3(void){
